@@ -1,7 +1,7 @@
 {
-  "name": "BOT",
+  "name": "BMyBot",
   "bot-account": {
-    "username": "BOT",
+    "username": "MyBot",
     "password": "",
     "type": "offline"
   },
